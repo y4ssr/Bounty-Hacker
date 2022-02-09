@@ -23,12 +23,12 @@
 Username : anonymous
 just hit enter no password is required*
 
-![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/files.png?raw=true )
+![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/ftp%20files.png?raw=true )
 
 *as you see there is two files, locks.txt and task.txt
 let's use the command $ get to send them to our local machine where we can read them*
 
-![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/ftp%20files.png?raw=true )
+![Example](https://github.com/y4ssr/Bounty-Hacker/blob/main/images/files.png?raw=true )
 
 *the first file gives us a bunch of passwords and the task.txt has something written in it as a well as a username at the end:)*
  
